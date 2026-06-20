@@ -1,39 +1,101 @@
-# Hi there, I'm Masoud! 👋
+<div align="center">
 
-### Software Engineer | Cross-Platform Specialist | Security Enthusiast
+  # Masoud Soroush 
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00FC40&center=true&vCenter=true&width=900&lines=Masoud+Soroush;Berlin%2C+Germany;TypeScript+%2F+JavaScript+Developer;Senior+Software+Engineer;Cross-Platform+Specialist)](https://git.io/typing-svg)
 
-Software Engineer experienced in developing cross-platform applications with a focus on security, performance, and end-to-end development. Expert in building user friendly interfaces using Node.js, React, and React Native with TypeScript. Strong background in responsive design, visualization charts, real-time data, and performance optimization. Known for a deep investigative mindset, frequently diving into Java and .NET environments to root-cause bugs and ensure system integrity. Skilled in improving software quality through engineering best practices and automated CI/CD pipelines. A lifelong learner and proactive problem-solver, I take full ownership of the development cycle and am always open to mastering new programming languages to deliver pixel-perfect, high-quality applications.
+<p>
+  <a href="https://soroush.tech">
+    <img src="https://img.shields.io/badge/Portfolio-soroush.tech-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/masoud-soroush">
+    <img src="https://img.shields.io/badge/LinkedIn-Masoud%20Soroush-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:masoud@soroush.tech">
+    <img src="https://img.shields.io/badge/Email-masoud@soroush.tech-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+</div>
+
+--- 
+## PROFILE
+Software Engineer experienced in End-to-end development Web and mobile applications. I built user-friendly interfaces using React, Next.js and React-Native with TypeScript. Strong background in responsive design, visualization charts, real-time data streaming, and performance optimization. with a focus on security, accessibility, development, backed by robust Node.js, event-driven systems. 
+
+| Delivery Handlers | Strategic Core | Architectural Solutions |
+| :--- | :--- | :--- |
+| 🛠️ **System Engineering**<br>• Architecting multi-platform codebases<br>• Rebuilding legacy layers for scale<br>• Hardening Web/App cryptography<br>• Isolating obscure runtime system errors<br>• Standardizing unified CI/CD pipelines | 🎯 **Execution Strengths**<br>• Deep-dive Client Side Architecture<br>• Full Autonomy from Design to Prod<br>• Rapid Problem Reverse-Engineering<br>• High-Throughput UI Stream Renders<br>• Systems Performance Engineering | ⚡ **Problem Domains Solved**<br>• High-risk platform migrations<br>• Scaling real-time synchronization streams<br>• Standardizing chaotic build flows<br>• Refactoring non-performing layout engines<br>• Shipping secure corporate applications |
+<!--
+  GitHub Profile README for @soroushm
+  Repository name must match exactly: soroushm/README.md
+-->
+
+
 
 
 ---
 
+## 📈 Stats Console
+<div align="center">
+
+<div style="display: inline-block; padding: 18px; border: 1px solid #e5e7eb; border-radius: 16px; background: #ffffff; box-shadow: 0 10px 30px rgba(15, 23, 42, 0.08);">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=soroushm&show_icons=true&theme=default&bg_color=ffffff&title_color=3A1078&text_color=333333&icon_color=3A1078&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=soroushm&theme=default&background=ffffff&ring=3A1078&fire=3A1078&currStreakLabel=3A1078&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soroushm&theme=github-light&hide_border=true&area=true" alt="GitHub activity graph" />
+</div>
+
+</div>
 
 
-### 🔍 What I’m Currently Working On
-- 🛡️ Enhancing end-to-end security in cross-platform environments.
-- 📊 Architecting real-time visualization dashboards for high-throughput data.
-- 🤖 Automating software quality via advanced CI/CD pipelines.
 
-| **Delivery Domains (What I did)**                                                                                                                                                                      | **Core Capabilities (My Strength)** | **Target Problem Space (Interest)**                                                                                                                                                                                                                                                                                                                         |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| :-------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  - rebuilding systems<br>- scaling products<br>- architecting platforms<br>- fixing impossible bugs<br>- cross-domain ownership<br>- shipping under pressure<br>- handling ambiguity<br>- platform migrations<br>- legacy system modernization<br>- building realtime systems<br>- leading frontend architecture<br>- integrating backend services<br>- optimizing performance under load<br>- designing distributed systems | - deep frontend expertise<br>- product ownership<br>- ability to enter unfamiliar systems fast<br>- infrastructure awareness<br>- debugging mindset<br>- realtime systems<br>- platform migrations<br>- scaling products<br>- performance engineering<br>- cross-platform experience<br>- architecture modernization   | - event-driven architecture<br>- high concurrency systems<br>- legacy system migration<br>- multi-product unification<br>- architecture transformation projects<br>- unify systems<br>- reduce build/deploy complexity<br>- DDD refactors<br>- integrate LLMs into real systems<br>- make AI production-grade<br>- scaling WebSockets and real-time systems |
+## STACK
+<div align="center">
 
-### 🛠️ My Tech Toolbox
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,git,figma,webstorm,wasm," alt="core stack" />
+<img src="https://skillicons.dev/icons?i=react,electron,androidstudio,vite,vitest,nextjs,nodejs,nestjs,express,redis,rabbitmq,postgres,mongodb,mysql,ai" alt="Technology stack" />
+<img src="https://skillicons.dev/icons?i=pnpm,npm,github,githubactions,gcp,aws,nginx,jenkins,docker,kubernetes,grafana" alt="operation stack" />
+</div>
 
-| Category                      | Tools                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-|:------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Core Language**             | <code><img height="20" title="typescript" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code><code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code><code><img height="20" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" ></code><code><img height="20" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" ></code>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| **Frontend/Platforms**        | <code><img height="20" title="react" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code><code><img height="20" title="ios"  alt="ios" src="https://raw.githubusercontent.com/github/explore/5aa5d7e7250d5a637f32abf934b135411c265db8/topics/apple/apple.png"></code><code><img height="20" title="android" alt="android" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code><code><img height="20" title="pwa" alt="pwa" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pwa/pwa.png"></code><code><img height="20" title="electron" alt="electron" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/electron/electron.png"></code><code><img height="20" title="www" alt="www" src="https://raw.githubusercontent.com/github/explore/ac83ae6ab1d3c5c5122805caa44d7fa2b9ca5be3/topics/web/web.png"></code>                                                                                                                                                                                                                                                                                                                                                       |
-| **Build & Development Tools** | <code><img height="20" alt="postman" src="https://raw.githubusercontent.com/github/explore/08fb5e541701424029515300b5b1e66aa2fbd68a/topics/postman/postman.png"></code><code><img height="20" alt="npm" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/npm/npm.png"></code><code><img height="20" alt="vite" src="https://raw.githubusercontent.com/github/explore/a1bae1b15fa9fc4d5de64f3360b1d01b35db82d5/topics/vite/vite.png"></code><code><img height="20" alt="babel" src="https://raw.githubusercontent.com/github/explore/cb39e2385dfcec8a661d01bfacff6b1e33bbaa9d/topics/babel/babel.png"></code><code><img height="20" alt="webpack" src="https://raw.githubusercontent.com/github/explore//80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code><code><img height="20" alt="prettier" src="https://raw.githubusercontent.com/github/explore/a7e193eaeba65938a1dbbf58306399b1c85f90c0/topics/prettier/prettier.png"></code><code><img height="20" alt="eslint" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png"></code>                                                                                                                                                                                                                                                           | 
-| **API API Tech**              | <code>{REST}</code><code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code><code><img height="20" alt="rpc" src="https://raw.githubusercontent.com/github/explore/67a41f64ae80056fb69b50df6b3b6ded898789be/topics/rpc/rpc.png"></code><code><img height="20" alt="socket-io" src="https://raw.githubusercontent.com/github/explore/3b2a1369c4274c39f100275756e61c981a41b5e4/topics/socket-io/socket-io.png"></code>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| **Backend/Runtime**           | <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code><code><img height="20" alt="nestjs" src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/nestjs/nestjs.png"></code><code><img height="20" alt="express" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code><code><img height="20" alt="fastify" style="background-color: #fff;" src="https://raw.githubusercontent.com/github/explore/d236cc6153f7ab3e68694234be43003b74cfe151/topics/fastify/fastify.png"></code>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| **Authentication & Security** | <code><img height="20" style="background-color: #fff;" alt="cryptography" src="https://raw.githubusercontent.com/github/explore/4a6a936a9c0fa77ac19f02e07c365937a76fa43e/topics/cryptography/cryptography.png"></code><code><img height="20" alt="oauth2" src="https://raw.githubusercontent.com/github/explore/0f2fcf0116d37edff7a076272cb3c1650b8cbfdf/topics/oauth2/oauth2.png"></code>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| **Testing & QA**              | <code><img height="20" alt="playwright" src="https://raw.githubusercontent.com/github/explore/60cd2530141f67f07a947fa2d310c482e287e387/topics/playwright/playwright.png"></code><code><img height="20" alt="selenium" src="https://raw.githubusercontent.com/github/explore/6c7084bb772f6fabaae377f5ae4a607594234ee6/topics/selenium/selenium.png"></code><code><img height="20" alt="storybook" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png"></code>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | 
-| **DevOps**                    | <code><img height="20" alt="ansible" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/ansible/ansible.png"></code><code><img height="20" alt="jenkins" src="https://raw.githubusercontent.com/github/explore/4546263bd5739353083c33dada43f8f31e7d1fd6/topics/jenkins/jenkins.png"></code><code><img height="20" alt="docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code><code><img height="20" alt="git" src="https://raw.githubusercontent.com/github/explore/9d47da057258d668c7dba9e9bb9cfcd45e2226e9/topics/git/git.png"></code><code><img height="20" alt="kubernetes" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png"></code><code><img height="20" alt="nginx" src="https://raw.githubusercontent.com/github/explore/85cceaeeaf993ca35664dc37ea24f9237fbbfc14/topics/nginx/nginx.png"></code><code><img height="20" alt="firebase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>                                                                                                                                                                                                                                          |
+
+
+
 ---
-### 🤝 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/masoud-soroush)
-- 🌐 [Portfolio](https://soroush.tech)
-- 📧 [Email Me](mailto:masoud@soroush.tech)
+## Career progression map:
+```mermaid
+mindmap
+  root((Engineering Stack))
+    Cross-Platform Client
+      React Native / React
+      Electron Desktop
+      PWA / Modern Web
+      Fluid User Experience
+    Deep Diagnostics
+      Node.js Optimization
+      Java Profiling
+      .NET Debugging
+      Root-Cause Isolation
+    Data & Realtime
+      WebSockets / Socket.io
+      High-Throughput Charts
+      Lean State Management
+      Secure REST / GraphQL
+    Infrastructure
+      CI/CD Pipelines
+      Automated Testing
+      Docker / Containerization
+      Security Hardening
+```
+
+---
+`SYSTEM_STATUS: OPEN_FOR_INNOVATION`
+### 🤝 Let's Connect <img src="https://komarev.com/ghpvc/?username=soroushm&label=Profile%20views&color=3A1078&style=flat" alt="Profile views" />
+
+  <a href="https://soroush.tech">
+    <img src="https://img.shields.io/badge/Open%20Portfolio-22C55E?style=for-the-badge&logo=safari&logoColor=white" alt="Open Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/masoud-soroush-4139b152">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+</p>
 
 *"I take full ownership of the development cycle—from the first pixel to the final deployment."*
