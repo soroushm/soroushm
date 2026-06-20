@@ -41,7 +41,6 @@ Software Engineer experienced in End-to-end development Web and mobile applicati
 <div style="display: inline-block; padding: 18px; border: 1px solid #e5e7eb; border-radius: 16px; background: #ffffff; box-shadow: 0 10px 30px rgba(15, 23, 42, 0.08);">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=soroushm&show_icons=true&theme=default&bg_color=ffffff&title_color=3A1078&text_color=333333&icon_color=3A1078&hide_border=true&rank_icon=github" alt="GitHub stats" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=soroushm&theme=default&background=ffffff&ring=3A1078&fire=3A1078&currStreakLabel=3A1078&hide_border=true" alt="GitHub streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soroushm&theme=github-light&hide_border=true&area=true" alt="GitHub activity graph" />
 </div>
 
 </div>
@@ -68,11 +67,11 @@ mindmap
       React Native / React
       Electron Desktop
       PWA / Modern Web
-      Fluid User Experience
+      Backend / Node.js
     Deep Diagnostics
-      Node.js Optimization
-      Java Profiling
-      .NET Debugging
+      Optimization
+      CPU Profiling
+      Dev Tools
       Root-Cause Isolation
     Data & Realtime
       WebSockets / Socket.io
@@ -99,3 +98,10 @@ mindmap
 </p>
 
 *"I take full ownership of the development cycle—from the first pixel to the final deployment."*
+<div align="center">
+
+<div style="display: inline-block; padding: 18px; border: 1px solid #e5e7eb; border-radius: 16px; background: #ffffff; box-shadow: 0 10px 30px rgba(15, 23, 42, 0.08);">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soroushm&theme=github-light&hide_border=true&area=true" alt="GitHub activity graph" />
+</div>
+
+</div>
